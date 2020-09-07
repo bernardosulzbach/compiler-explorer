@@ -35,7 +35,7 @@
     "serve-favicon": "2.3.x",
     "shell-quote": "1.6.x",
     "temp": "0.8.x",
-    "tree-kill": "1.1.x",
+    "tree-kill": "1.2.x",
     "underscore-node": "*",
     "winston": "2.2.x"
   },
