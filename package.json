@@ -23,7 +23,7 @@
     "denodeify": "^1.2.1",
     "express": "4.13.x",
     "fs-extra": "0.26.x",
-    "http-proxy": "1.12.x",
+    "http-proxy": "1.18.x",
     "lru-cache": "4.1.1",
     "monaco-editor": "0.10.1",
     "morgan": "1.6.x",
